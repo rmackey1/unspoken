@@ -314,6 +314,195 @@
       ],
       "subtitle" : "Everything you optimize is built on how well you rest",
       "title" : "Sleep Is the Foundation"
+    },
+        {
+      "category" : "People",
+      "content" : [
+        {
+          "text" : "People do not resist change. They resist being changed.",
+          "type" : "insight"
+        },
+        {
+          "text" : "You have probably watched someone you care about make the same mistake over and over. You can see the solution clearly. So you tell them. And they nod, maybe even agree, and then do exactly what they were doing before. This is not stupidity. It is human nature.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "Unsolicited advice triggers {{Psychological Reactance}} \u{2014} the instinct to reassert your freedom when you feel someone is trying to control you. The harder you push, the harder they push back, even if your advice is objectively correct. Being right is not enough. You also have to be invited.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Shift",
+          "text" : "Replace statements with questions. Instead of \"you should do X,\" try \"what do you think would happen if you tried X?\" When people arrive at the answer themselves, they own it. When you hand it to them, they resist it.",
+          "type" : "principle"
+        },
+        {
+          "text" : "There is also a timing component. People are most open to input right after they ask for it, or right after a failure when the pain is fresh. Advice delivered at the wrong moment \u{2014} no matter how good \u{2014} lands as criticism. The same words delivered after \"what do you think I should do?\" land as wisdom.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Try This",
+          "text" : "The next time you feel the urge to give someone advice, pause. Ask a question instead: \"What have you tried so far?\" or \"What feels like the hardest part?\" Let them talk. You will be surprised how often they find their own answer.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "person.2",
+      "id" : 6,
+      "readTime" : "4 slides",
+      "shortTitle" : false,
+      "slides" : [
+        {
+          "text" : "You can see the solution to someone else's problem with perfect clarity. So you tell them. And nothing changes. This is not because they are stubborn \u{2014} it is because unsolicited advice triggers {{Psychological Reactance}}, the instinct to push back when someone tries to influence your behavior. The harder you push your point, the more they dig into their position. Being right is not enough. You also have to be invited.",
+          "type" : "why"
+        },
+        {
+          "text" : "Replace statements with questions. Instead of telling someone what to do, ask what they think would happen if they tried a different approach. When people arrive at an answer themselves, they own it. When you hand it to them, they resist it. Timing matters too \u{2014} people are most receptive right after they ask for help or right after a failure when the pain is fresh. The same advice delivered at the wrong moment lands as criticism.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "They lack the intelligence to understand your point",
+            "They feel their autonomy is being threatened",
+            "They secretly agree but are too proud to admit it",
+            "They have not heard the advice enough times yet"
+          ],
+          "correctIndex" : 1,
+          "question" : "Why do people often reject good advice?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Ask questions instead of giving answers \u{2014} people own what they discover themselves.",
+          "text" : "The next time you want to give someone advice, ask a question instead. Try \"What have you tried so far?\" or \"What feels like the hardest part?\" Let them talk first. Notice how the conversation shifts from resistance to openness.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "Why your best advice keeps getting ignored",
+      "title" : "Stop Giving Advice"
+    },
+    {
+      "category" : "Self",
+      "content" : [
+        {
+          "text" : "You do not rise to the level of your goals. You fall to the level of your systems.",
+          "type" : "insight"
+        },
+        {
+          "text" : "Motivation is unreliable. It shows up on Monday morning and disappears by Wednesday afternoon. If your plan for self-improvement depends on feeling inspired, you have already failed. The people who consistently get things done are not more motivated \u{2014} they have better systems.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "A system is any repeated process that removes the need for a decision. Putting your running shoes by the door the night before. Blocking your calendar for deep work every morning. Keeping your phone in another room while studying. These are not dramatic changes. They are {{Decision Fatigue}} countermeasures \u{2014} small environmental tweaks that make the right behavior the default.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Principle",
+          "text" : "Design your environment so the desired action requires less effort than the undesired one. Make good habits easy. Make bad habits inconvenient. Willpower is a backup generator, not a primary power source.",
+          "type" : "principle"
+        },
+        {
+          "text" : "Start with your biggest friction point. Where do you consistently fail to follow through? That is where you need a system, not more motivation. If you always skip the gym after work, switch to morning workouts and sleep in your gym clothes. If you waste evenings scrolling, put your phone on a charger in the kitchen at 9 PM.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Build This",
+          "text" : "Pick one habit you have been struggling with. Instead of recommitting to it harder, change one thing about your environment that makes it easier to start. Remove one step, one obstacle, one decision. Test it for a week.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "gearshape",
+      "id" : 7,
+      "readTime" : "4 slides",
+      "shortTitle" : true,
+      "slides" : [
+        {
+          "text" : "Motivation is unreliable. It shows up on Monday morning and disappears by Wednesday afternoon. If your plan depends on feeling inspired, you have already failed. The people who consistently get things done have better systems, not more willpower. A system removes decisions. And every decision you remove is one less opportunity to choose the wrong thing, especially when you are tired, stressed, or distracted by {{Decision Fatigue}}.",
+          "type" : "why"
+        },
+        {
+          "text" : "Design your environment so the right action is the easiest one. Put running shoes by the door. Block your calendar for deep work. Keep your phone in another room while studying. These are not dramatic changes \u{2014} they are small tweaks that make the desired behavior the default. Start with your biggest friction point: where do you consistently fail to follow through? That is where you need a system, not a pep talk.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "Motivation fluctuates but systems run on autopilot",
+            "Goals are less important than motivation",
+            "Willpower can be trained like a muscle indefinitely",
+            "Systems eliminate the need for any effort"
+          ],
+          "correctIndex" : 0,
+          "question" : "Why are systems more reliable than motivation for building habits?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Change your environment, not your willpower \u{2014} make the right choice the easy choice.",
+          "text" : "Pick one habit you have been struggling with. Instead of trying harder, change one thing about your environment that makes it easier to start. Remove one step, one obstacle, one decision. Test it for one week and see what happens.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "Why willpower fails and what actually works",
+      "title" : "Systems Over Motivation"
+    },
+    {
+      "category" : "Money",
+      "content" : [
+        {
+          "text" : "A budget is not a restriction. It is a plan for telling your money where to go instead of wondering where it went.",
+          "type" : "insight"
+        },
+        {
+          "text" : "Most people think of budgeting as deprivation \u{2014} cutting out lattes, canceling subscriptions, saying no to everything fun. That framing is why most budgets fail within a month. Real budgeting is not about spending less. It is about spending intentionally.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "The concept that changes everything is {{Lifestyle Inflation}}. Every time your income rises, your expenses rise to match it. A raise feels like more money for about two weeks before your spending absorbs it entirely. The person earning $90,000 who spends $88,000 is in a worse position than the person earning $50,000 who spends $40,000. Income is vanity. Savings rate is sanity.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Method",
+          "text" : "Use the 50/30/20 framework as a starting point. 50% for needs, 30% for wants, 20% for savings and debt. You do not need to track every dollar \u{2014} you need to know your three numbers and check them once a month.",
+          "type" : "principle"
+        },
+        {
+          "text" : "The real trick is automating the important categories. On payday, your savings transfer happens automatically. Your rent or mortgage is auto-paid. What remains is your actual spending money \u{2014} and you can use it guilt-free because the important things are already handled. Freedom comes from structure, not from winging it.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "This Week",
+          "text" : "Look at your last month of spending. Sort it into three buckets: needs, wants, and savings. Do not judge \u{2014} just observe. Knowing your actual numbers is the first step to choosing better ones.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "chart.pie",
+      "id" : 8,
+      "readTime" : "4 slides",
+      "shortTitle" : true,
+      "slides" : [
+        {
+          "text" : "Most people think budgeting means deprivation. That framing is why most budgets fail. Real budgeting is about spending intentionally, not spending less. The hidden danger is {{Lifestyle Inflation}} \u{2014} every time your income rises, your expenses rise to match. A raise feels like more money for about two weeks before your spending absorbs it. The person earning $90,000 who spends $88,000 is worse off than the person earning $50,000 who spends $40,000.",
+          "type" : "why"
+        },
+        {
+          "text" : "Use the 50/30/20 framework: 50% for needs, 30% for wants, 20% for savings and debt. You do not need to track every dollar \u{2014} just know your three numbers and check once a month. Automate the important categories on payday: savings transfers, rent, bills. What remains is guilt-free spending money because the important things are already handled. Freedom comes from structure, not from winging it.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "People do not earn enough money",
+            "Budgets require too much daily effort",
+            "People frame budgeting as deprivation instead of intention",
+            "Inflation makes budgets inaccurate over time"
+          ],
+          "correctIndex" : 2,
+          "question" : "What is the main reason most budgets fail?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Automate the essentials, then spend what remains guilt-free.",
+          "text" : "Look at your last month of spending. Sort it into three buckets: needs, wants, and savings. Do not judge the numbers \u{2014} just observe them. Knowing your real numbers is the first step to choosing better ones.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "Spending intentionally instead of spending less",
+      "title" : "Budgeting Without Suffering"
     }
   ],
   "terms" : [
@@ -365,7 +554,28 @@
       "explanation" : "Melatonin production is triggered by darkness and suppressed by light, especially the blue light from screens. When you stare at your phone before bed, you are directly telling your brain to delay sleep. This is why the advice to stop screens an hour before bed is so effective — it allows melatonin to rise naturally, making you feel drowsy at the right time instead of lying awake wondering why you cannot fall asleep.",
       "id" : "melatonin",
       "name" : "Melatonin"
+    },
+        {
+      "category" : "People",
+      "definition" : "The instinct to push back when you feel someone is trying to control your behavior.",
+      "explanation" : "Psychological reactance was identified by Jack Brehm in 1966. When people perceive a threat to their freedom of choice, they experience an uncomfortable motivational state that drives them to restore that freedom \u{2014} often by doing the exact opposite of what they are being told. This is why hard-sell tactics backfire, why teenagers rebel against strict rules, and why unsolicited advice is almost always ignored. The more pressure you apply, the more resistance you create.",
+      "id" : "psychological-reactance",
+      "name" : "Psychological Reactance"
+    },
+    {
+      "category" : "Self",
+      "definition" : "The mental exhaustion that comes from making too many choices.",
+      "explanation" : "Every decision you make throughout the day draws from the same limited pool of mental energy. By evening, that pool is depleted \u{2014} which is why you eat junk food at night even though you planned a healthy dinner, or why you scroll your phone instead of reading. Decision fatigue explains why successful people often simplify their wardrobes, eat the same breakfast, or follow rigid routines. They are not boring \u{2014} they are conserving their decision-making energy for the choices that actually matter.",
+      "id" : "decision-fatigue",
+      "name" : "Decision Fatigue"
+    },
+    {
+      "category" : "Money",
+      "definition" : "The tendency for your spending to rise in lockstep with your income.",
+      "explanation" : "Lifestyle inflation is why many high earners still live paycheck to paycheck. Each raise, bonus, or new job triggers an upgrade: a nicer apartment, a better car, more expensive restaurants. The upgrades feel earned and reasonable in the moment, but they silently consume every gain. The antidote is not to avoid all upgrades \u{2014} it is to decide in advance what percentage of each raise goes to savings before you adjust your lifestyle. Capture the gains before your spending can claim them.",
+      "id" : "lifestyle-inflation",
+      "name" : "Lifestyle Inflation"
     }
   ],
-  "version" : 1
+  "version" : 2
 }
