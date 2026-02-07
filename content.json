@@ -1,0 +1,371 @@
+{
+  "lessons" : [
+    {
+      "category" : "Money",
+      "content" : [
+        {
+          "text" : "Most people save what’s left after spending. Wealthy people spend what’s left after saving.",
+          "type" : "insight"
+        },
+        {
+          "text" : "The concept is deceptively simple: before you pay your rent, your subscriptions, or your bar tab, move a fixed percentage of every paycheck into savings. Not what’s left over — what comes first.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "This works because of a psychological quirk called {{Parkinson’s Law}}: your spending expands to fill whatever money is available. If you see $3,000 in your checking account, you’ll find a way to spend $3,000. But if you only see $2,400 because $600 was already moved, you’ll adapt without noticing.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Rule",
+          "text" : "Aim for 20% of your income. If that feels impossible, start with 5%. The percentage matters less than the consistency. Automate it so you never have to rely on willpower.",
+          "type" : "principle"
+        },
+        {
+          "text" : "Open a separate savings account — ideally at a different bank, so it’s slightly harder to access. Set up an automatic transfer the day after each payday. Treat it like a bill you cannot skip.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Your Move",
+          "text" : "Today, set up an automatic transfer from your checking to a savings account. Even $25 per paycheck. The habit matters more than the amount right now.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "banknote",
+      "id" : 1,
+      "readTime" : "4 slides",
+      "shortTitle" : true,
+      "slides" : [
+        {
+          "text" : "Most people try to save what is left after spending, but there is never anything left. Your expenses expand to fill whatever money is available — a phenomenon called {{Parkinson’s Law}}. By saving first, you remove the decision entirely and guarantee progress toward financial security regardless of willpower or discipline.",
+          "type" : "why"
+        },
+        {
+          "text" : "Open a separate savings account, ideally at a different bank so the money is slightly harder to access on impulse. Set up an automatic transfer the day after each payday — even $25 to start. You will not notice the difference in your checking account, but the savings account will grow steadily. Over a year at just $50 per paycheck, that is $1,300 without ever thinking about it.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "Money loses value over time due to inflation",
+            "Spending expands to fill whatever money is available",
+            "The more you earn, the more taxes you pay",
+            "Savings accounts always outperform investments"
+          ],
+          "correctIndex" : 1,
+          "question" : "What is Parkinson’s Law in the context of personal finance?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Automate your savings so you never rely on willpower.",
+          "text" : "Set up an automatic transfer from your checking to a savings account today. Start with whatever amount feels painless. The habit matters more than the amount — you can always increase it later.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "The one rule that changes everything about saving",
+      "title" : "Pay Yourself First"
+    },
+    {
+      "category" : "People",
+      "content" : [
+        {
+          "text" : "The goal of disagreement isn’t to win — it’s to be understood while making the other person feel heard.",
+          "type" : "insight"
+        },
+        {
+          "text" : "Most arguments escalate not because of what’s being said, but because someone feels dismissed. The moment a person senses you’re not really listening — that you’re just waiting for your turn to talk — they stop caring about your point and start defending their {{Ego}}.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "The trick is to separate the person from the position. You can completely disagree with someone’s idea while still respecting their intelligence. These are two different things, but most people collapse them into one.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Framework",
+          "text" : "Acknowledge first, then redirect. Say “I see why you’d think that” or “That’s a fair point” before presenting your view. This isn’t manipulation — it’s genuine respect for their reasoning process.",
+          "type" : "principle"
+        },
+        {
+          "text" : "Watch your tone more than your words. You can say the most reasonable thing in the world, but if your voice carries contempt or condescension, the other person will only hear the disrespect. Flat, calm, and warm beats clever and sharp every time.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Try This",
+          "text" : "In your next disagreement, pause before responding. Restate what the other person said in your own words. Then — and only then — share your perspective. Notice how the conversation changes.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "bubble.left.and.text.bubble.right",
+      "id" : 2,
+      "readTime" : "4 slides",
+      "shortTitle" : false,
+      "slides" : [
+        {
+          "text" : "Most arguments escalate not because of what is being said, but because someone feels dismissed. The moment a person senses you are not really listening, they stop caring about your point and start defending their {{Ego}}. Learning to disagree well is one of the most valuable social skills you can develop — it determines whether conflicts strengthen or destroy your relationships.",
+          "type" : "why"
+        },
+        {
+          "text" : "Separate the person from the position. Before presenting your view, acknowledge theirs: “I see why you’d think that” or “That’s a fair point.” This is not manipulation — it is genuine respect for their reasoning. Then share your perspective calmly. Watch your tone more than your words. You can say the most reasonable thing in the world, but if your voice carries contempt, the other person will only hear disrespect.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "One person is factually wrong",
+            "The topic is too controversial",
+            "Someone feels dismissed or unheard",
+            "People naturally enjoy conflict"
+          ],
+          "correctIndex" : 2,
+          "question" : "What is the most common reason arguments escalate?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Acknowledge first, then redirect — respect their reasoning before sharing yours.",
+          "text" : "In your next disagreement, pause before responding. Restate what the other person said in your own words. Then — and only then — share your perspective. Notice how the dynamic changes.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "How to hold your ground without burning bridges",
+      "title" : "Disagree Without Making Enemies"
+    },
+    {
+      "category" : "Self",
+      "content" : [
+        {
+          "text" : "The ability to tolerate discomfort without reacting is one of the most underrated life skills.",
+          "type" : "insight"
+        },
+        {
+          "text" : "We live in an age of instant relief. Bored? Open your phone. Anxious? Have a drink. Lonely? Scroll social media. Every uncomfortable feeling has a quick fix — and every quick fix makes the next uncomfortable feeling harder to bear.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "What most people don’t realize is that discomfort is usually temporary. Anxiety peaks and then recedes. Boredom gives way to creativity. Loneliness passes. But you have to sit through the wave to discover this. Most people bail at the first sign of unease and never learn that they could have handled it.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Insight",
+          "text" : "Discomfort is not danger. Your brain treats them the same way, but they are fundamentally different. Learning to tell them apart is the foundation of {{Emotional Resilience}}.",
+          "type" : "principle"
+        },
+        {
+          "text" : "Start small. Next time you feel the urge to check your phone out of boredom, wait five minutes. When you feel anxious before a meeting, sit with the feeling instead of over-preparing. The goal isn’t to suffer — it’s to prove to yourself that you can handle more than you think.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Practice This",
+          "text" : "Choose one daily discomfort — a cold shower, sitting in silence for five minutes, or delaying your morning coffee by an hour. Do it for a week. Notice how your relationship with discomfort shifts.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "figure.mind.and.body",
+      "id" : 3,
+      "readTime" : "4 slides",
+      "shortTitle" : true,
+      "slides" : [
+        {
+          "text" : "We live in an age of instant relief. Bored? Open your phone. Anxious? Have a drink. Every uncomfortable feeling has a quick fix, and every quick fix makes the next uncomfortable feeling harder to bear. The ability to tolerate discomfort without immediately reacting is the foundation of {{Emotional Resilience}}, better decisions, and real self-control.",
+          "type" : "why"
+        },
+        {
+          "text" : "Discomfort is not danger — your brain just treats them the same way. Anxiety peaks and then recedes. Boredom gives way to creativity. But you have to sit through the wave to discover this. Start small: next time you feel the urge to check your phone out of boredom, wait five minutes. When you feel anxious before a meeting, sit with it instead of over-preparing. You will find you can handle far more than you think.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "You become more efficient at solving problems",
+            "Future discomfort becomes harder to tolerate",
+            "Your stress levels permanently decrease",
+            "You develop better coping mechanisms"
+          ],
+          "correctIndex" : 1,
+          "question" : "What happens when you consistently avoid discomfort with quick fixes?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Discomfort is not danger — sitting through the wave builds real strength.",
+          "text" : "Choose one small daily discomfort — a cold shower, sitting in silence for five minutes, or delaying your morning coffee by an hour. Do it for a week. Notice how your relationship with discomfort shifts.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "Why the urge to fix everything is holding you back",
+      "title" : "Sitting With Discomfort"
+    },
+    {
+      "category" : "Work",
+      "content" : [
+        {
+          "text" : "The people who get ahead aren’t usually the most talented — they’re the ones others can count on.",
+          "type" : "insight"
+        },
+        {
+          "text" : "There’s a common trap in early careers: trying to be the smartest person in the room. Giving the most creative answer. Volunteering for the flashiest projects. But the people making hiring and promotion decisions care about something much simpler: can I trust this person to deliver?",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "Reliability is boring and unglamorous, which is exactly why it’s so powerful. In a world where most people over-promise and under-deliver, simply doing what you said you’d do — on time, every time — makes you exceptional. The key principle is to {{Under-Promise and Over-Deliver}}.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Principle",
+          "text" : "Under-promise and over-deliver. Give yourself more time than you think you need. Communicate early when things change. Show up consistently, even when nobody’s watching.",
+          "type" : "principle"
+        },
+        {
+          "text" : "This doesn’t mean settling for mediocrity. It means building a foundation of trust that amplifies everything else you do. A brilliant idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Start Here",
+          "text" : "For the next two weeks, track every commitment you make — every “I’ll get back to you” and “I’ll have it by Friday.” Follow through on every single one. Watch how people start treating you differently.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "briefcase",
+      "id" : 4,
+      "readTime" : "4 slides",
+      "shortTitle" : true,
+      "slides" : [
+        {
+          "text" : "The people making hiring and promotion decisions care about something simpler than talent: can I trust this person to deliver? Reliability is boring and unglamorous, which is exactly why it is so powerful. In a world where most people over-promise and under-deliver, simply doing what you said you would do — on time, every time — makes you exceptional.",
+          "type" : "why"
+        },
+        {
+          "text" : "{{Under-Promise and Over-Deliver}}. Give yourself more time than you think you need for any task. Communicate early when timelines change rather than going silent. This does not mean settling for mediocrity — it means building a foundation of trust that amplifies everything else you do. A brilliant idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "Talented people are harder to manage",
+            "Reliability is easier to measure on performance reviews",
+            "Trust amplifies everything else you do",
+            "Most jobs do not require much skill"
+          ],
+          "correctIndex" : 2,
+          "question" : "Why does reliability matter more than raw talent in most workplaces?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Trust is built by doing what you said you would do, every time.",
+          "text" : "For the next two weeks, track every commitment you make — every “I’ll get back to you” and “I’ll have it by Friday.” Follow through on every single one. Watch how people start treating you differently.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "The underrated career strategy nobody talks about",
+      "title" : "Be Reliable, Not Impressive"
+    },
+    {
+      "category" : "Health",
+      "content" : [
+        {
+          "text" : "You cannot out-supplement, out-exercise, or out-hustle bad sleep. It is the single highest-leverage health habit.",
+          "type" : "insight"
+        },
+        {
+          "text" : "Sleep isn’t passive. While you’re unconscious, your brain is clearing metabolic waste, consolidating memories, regulating hormones, and repairing tissue. Cutting sleep short doesn’t just make you tired — it degrades every system in your body.",
+          "type" : "paragraph"
+        },
+        {
+          "text" : "After just one night of poor sleep, your {{Insulin Sensitivity}} drops, your {{Cortisol}} spikes, your decision-making worsens, and your emotional regulation weakens. After a week of six-hour nights, your cognitive performance matches someone who’s been awake for 48 hours straight — but you won’t feel it, because one of the first things sleep deprivation impairs is your ability to judge your own impairment.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "The Non-Negotiable",
+          "text" : "Aim for 7 to 9 hours of actual sleep, not just time in bed. Consistency matters more than duration — going to bed and waking up at the same time every day, including weekends, is the single most impactful change you can make.",
+          "type" : "principle"
+        },
+        {
+          "text" : "Your bedroom should be cool, dark, and quiet. Stop screens an hour before bed — the light suppresses {{Melatonin}} production. If your mind races at night, keep a notepad on your nightstand and write down whatever’s on your mind. Getting it out of your head and onto paper is surprisingly effective.",
+          "type" : "paragraph"
+        },
+        {
+          "label" : "Tonight",
+          "text" : "Set a phone alarm for one hour before your target bedtime. When it goes off, start winding down — dim the lights, put your phone in another room, and let your body do what it already knows how to do.",
+          "type" : "action"
+        }
+      ],
+      "icon" : "moon.zzz",
+      "id" : 5,
+      "readTime" : "4 slides",
+      "shortTitle" : true,
+      "slides" : [
+        {
+          "text" : "Sleep is not passive rest — it is when your brain clears metabolic waste, consolidates memories, regulates hormones, and repairs tissue. After just one night of poor sleep, your {{Insulin Sensitivity}} drops, {{Cortisol}} spikes, and decision-making worsens. After a week of six-hour nights, your cognitive performance matches someone awake for 48 hours straight — but you will not feel it, because sleep deprivation impairs your ability to judge your own impairment.",
+          "type" : "why"
+        },
+        {
+          "text" : "Aim for 7 to 9 hours of actual sleep, not just time in bed. Consistency matters more than duration — going to bed and waking up at the same time every day, including weekends, is the single most impactful change. Keep your bedroom cool, dark, and quiet. Stop screens an hour before bed — the light suppresses {{Melatonin}} production. If your mind races at night, keep a notepad on your nightstand and write down whatever is on your mind.",
+          "type" : "how"
+        },
+        {
+          "choices" : [
+            "Taking melatonin supplements every night",
+            "Sleeping in on weekends to catch up",
+            "Going to bed and waking up at the same time daily",
+            "Exercising right before bed to tire yourself out"
+          ],
+          "correctIndex" : 2,
+          "question" : "What is the most impactful change you can make for better sleep?",
+          "type" : "quiz"
+        },
+        {
+          "keyTakeaway" : "Consistent sleep and wake times matter more than total hours.",
+          "text" : "Set a phone alarm for one hour before your target bedtime tonight. When it goes off, start winding down — dim the lights, put your phone in another room, and let your body do what it already knows how to do.",
+          "type" : "move"
+        }
+      ],
+      "subtitle" : "Everything you optimize is built on how well you rest",
+      "title" : "Sleep Is the Foundation"
+    }
+  ],
+  "terms" : [
+    {
+      "category" : "Money",
+      "definition" : "Your spending expands to fill whatever money is available.",
+      "explanation" : "Coined by Cyril Northcote Parkinson in 1955, the original observation was about time: work expands to fill the time allotted. The financial version is equally powerful. If you have $3,000 in your account, you will find ways to spend $3,000. But if only $2,400 is visible because the rest was auto-transferred to savings, you adapt without even noticing. This is why paying yourself first works — it removes available money before your brain can claim it.",
+      "id" : "parkinsons-law",
+      "name" : "Parkinson’s Law"
+    },
+    {
+      "category" : "People",
+      "definition" : "The part of your identity that feels threatened during disagreements.",
+      "explanation" : "In everyday conversation, ego refers to your sense of self-importance. During disagreements, the ego is what makes you stop listening and start defending. When someone challenges your idea, your ego interprets it as a challenge to your intelligence or worth. Separating the person from the position means recognizing that disagreeing with an idea is not the same as disrespecting the person who holds it.",
+      "id" : "ego",
+      "name" : "Ego"
+    },
+    {
+      "category" : "Self",
+      "definition" : "The ability to tolerate discomfort without immediately reacting.",
+      "explanation" : "Emotional resilience is not about being tough or suppressing feelings. It is the skill of experiencing uncomfortable emotions — anxiety, boredom, frustration — without reflexively reaching for a quick fix. Every time you sit through a wave of discomfort instead of numbing it, you prove to your nervous system that the feeling is survivable. Over time, your tolerance grows and your need for instant relief shrinks.",
+      "id" : "emotional-resilience",
+      "name" : "Emotional Resilience"
+    },
+    {
+      "category" : "Work",
+      "definition" : "Set expectations slightly below what you can actually do, then exceed them.",
+      "explanation" : "This is not about sandbagging or being dishonest about your capabilities. It is about building in a margin of safety so that unexpected obstacles do not turn you into someone who breaks commitments. If you think a task will take two days, say three. If you finish early, you look exceptional. If something goes wrong, you still deliver on time. Over months, this pattern builds a reputation for reliability that compounds into trust, opportunities, and influence.",
+      "id" : "under-promise-over-deliver",
+      "name" : "Under-Promise and Over-Deliver"
+    },
+    {
+      "category" : "Health",
+      "definition" : "How efficiently your cells respond to insulin and absorb blood sugar.",
+      "explanation" : "Insulin is the hormone that tells your cells to absorb glucose from the blood. When insulin sensitivity is high, a small amount of insulin does the job efficiently. When it drops — from poor sleep, stress, or diet — your body needs more insulin to achieve the same effect, which can lead to energy crashes, fat storage, and eventually metabolic disease. Even one night of poor sleep measurably reduces insulin sensitivity the next day.",
+      "id" : "insulin-sensitivity",
+      "name" : "Insulin Sensitivity"
+    },
+    {
+      "category" : "Health",
+      "definition" : "Your body’s primary stress hormone, released by the adrenal glands.",
+      "explanation" : "Cortisol is essential for waking up, responding to threats, and managing energy. Problems arise when it stays elevated due to chronic stress or poor sleep. High cortisol increases appetite, promotes fat storage around the midsection, impairs memory, and weakens immune function. Good sleep is one of the most effective ways to keep cortisol levels in a healthy rhythm — peaking in the morning and tapering off at night.",
+      "id" : "cortisol",
+      "name" : "Cortisol"
+    },
+    {
+      "category" : "Health",
+      "definition" : "The hormone that signals your body it is time to sleep.",
+      "explanation" : "Melatonin production is triggered by darkness and suppressed by light, especially the blue light from screens. When you stare at your phone before bed, you are directly telling your brain to delay sleep. This is why the advice to stop screens an hour before bed is so effective — it allows melatonin to rise naturally, making you feel drowsy at the right time instead of lying awake wondering why you cannot fall asleep.",
+      "id" : "melatonin",
+      "name" : "Melatonin"
+    }
+  ],
+  "version" : 1
+}
