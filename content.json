@@ -1,49 +1,26 @@
 {
+  "version" : 3,
   "lessons" : [
     {
-      "category" : "Money",
-      "content" : [
-        {
-          "text" : "Most people save what’s left after spending. Wealthy people spend what’s left after saving.",
-          "type" : "insight"
-        },
-        {
-          "text" : "The concept is deceptively simple: before you pay your rent, your subscriptions, or your bar tab, move a fixed percentage of every paycheck into savings. Not what’s left over — what comes first.",
-          "type" : "paragraph"
-        },
-        {
-          "text" : "This works because of a psychological quirk called {{Parkinson’s Law}}: your spending expands to fill whatever money is available. If you see $3,000 in your checking account, you’ll find a way to spend $3,000. But if you only see $2,400 because $600 was already moved, you’ll adapt without noticing.",
-          "type" : "paragraph"
-        },
-        {
-          "label" : "The Rule",
-          "text" : "Aim for 20% of your income. If that feels impossible, start with 5%. The percentage matters less than the consistency. Automate it so you never have to rely on willpower.",
-          "type" : "principle"
-        },
-        {
-          "text" : "Open a separate savings account — ideally at a different bank, so it’s slightly harder to access. Set up an automatic transfer the day after each payday. Treat it like a bill you cannot skip.",
-          "type" : "paragraph"
-        },
-        {
-          "label" : "Your Move",
-          "text" : "Today, set up an automatic transfer from your checking to a savings account. Even $25 per paycheck. The habit matters more than the amount right now.",
-          "type" : "action"
-        }
-      ],
-      "icon" : "banknote",
       "id" : 1,
+      "category" : "Money",
+      "icon" : "banknote",
+      "title" : "Pay Yourself First",
+      "subtitle" : "The one rule that changes everything about saving",
       "readTime" : "4 slides",
       "shortTitle" : true,
       "slides" : [
         {
-          "text" : "Most people try to save what is left after spending, but there is never anything left. Your expenses expand to fill whatever money is available — a phenomenon called {{Parkinson’s Law}}. By saving first, you remove the decision entirely and guarantee progress toward financial security regardless of willpower or discipline.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "Most people try to save what is left after spending, but there is never anything left. Your expenses expand to fill whatever money is available \u2014 a phenomenon called {{Parkinson's Law}}. By saving first, you remove the decision entirely and guarantee progress toward financial security regardless of willpower or discipline."
         },
         {
-          "text" : "Open a separate savings account, ideally at a different bank so the money is slightly harder to access on impulse. Set up an automatic transfer the day after each payday — even $25 to start. You will not notice the difference in your checking account, but the savings account will grow steadily. Over a year at just $50 per paycheck, that is $1,300 without ever thinking about it.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Open a separate savings account, ideally at a different bank so the money is slightly harder to access on impulse. Set up an automatic transfer the day after each payday \u2014 even $25 to start. You will not notice the difference in your checking account, but the savings account will grow steadily. Over a year at just $50 per paycheck, that is $1,300 without ever thinking about it."
         },
         {
+          "type" : "quiz",
+          "question" : "What is Parkinson's Law in the context of personal finance?",
           "choices" : [
             "Money loses value over time due to inflation",
             "Spending expands to fill whatever money is available",
@@ -51,62 +28,85 @@
             "Savings accounts always outperform investments"
           ],
           "correctIndex" : 1,
-          "question" : "What is Parkinson’s Law in the context of personal finance?",
-          "type" : "quiz"
+          "explanation" : "Parkinson's Law says your spending naturally expands to consume whatever money is available. By moving savings out first, you adapt to spending less without feeling deprived."
         },
         {
-          "keyTakeaway" : "Automate your savings so you never rely on willpower.",
-          "text" : "Set up an automatic transfer from your checking to a savings account today. Start with whatever amount feels painless. The habit matters more than the amount — you can always increase it later.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "Set up an automatic transfer from your checking to a savings account today. Start with whatever amount feels painless. The habit matters more than the amount \u2014 you can always increase it later.",
+          "keyTakeaway" : "Automate your savings so you never rely on willpower."
         }
       ],
-      "subtitle" : "The one rule that changes everything about saving",
-      "title" : "Pay Yourself First"
-    },
-    {
-      "category" : "People",
       "content" : [
         {
-          "text" : "The goal of disagreement isn’t to win — it’s to be understood while making the other person feel heard.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "Most people save what's left after spending. Wealthy people spend what's left after saving."
         },
         {
-          "text" : "Most arguments escalate not because of what’s being said, but because someone feels dismissed. The moment a person senses you’re not really listening — that you’re just waiting for your turn to talk — they stop caring about your point and start defending their {{Ego}}.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "The concept is deceptively simple: before you pay your rent, your subscriptions, or your bar tab, move a fixed percentage of every paycheck into savings. Not what's left over \u2014 what comes first."
         },
         {
-          "text" : "The trick is to separate the person from the position. You can completely disagree with someone’s idea while still respecting their intelligence. These are two different things, but most people collapse them into one.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "This works because of a psychological quirk called {{Parkinson's Law}}: your spending expands to fill whatever money is available. If you see $3,000 in your checking account, you'll find a way to spend $3,000. But if you only see $2,400 because $600 was already moved, you'll adapt without noticing."
         },
         {
-          "label" : "The Framework",
-          "text" : "Acknowledge first, then redirect. Say “I see why you’d think that” or “That’s a fair point” before presenting your view. This isn’t manipulation — it’s genuine respect for their reasoning process.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Rule",
+          "text" : "Aim for 20% of your income. If that feels impossible, start with 5%. The percentage matters less than the consistency. Automate it so you never have to rely on willpower."
         },
         {
-          "text" : "Watch your tone more than your words. You can say the most reasonable thing in the world, but if your voice carries contempt or condescension, the other person will only hear the disrespect. Flat, calm, and warm beats clever and sharp every time.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Open a separate savings account \u2014 ideally at a different bank, so it's slightly harder to access. Set up an automatic transfer the day after each payday. Treat it like a bill you cannot skip."
         },
         {
-          "label" : "Try This",
-          "text" : "In your next disagreement, pause before responding. Restate what the other person said in your own words. Then — and only then — share your perspective. Notice how the conversation changes.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "The common mistake is waiting until you earn more. People tell themselves they'll start saving when they get a raise, when they pay off a debt, when things settle down. But things never settle down. The person who saves $50 a month starting at 22 ends up with more than the person who saves $200 a month starting at 35. Time is the asset, not the amount."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Psychology",
+          "text" : "You will never feel ready to save. That is the point. Automation removes the emotional decision from the equation entirely. Once the transfer is set up, saving becomes something that happens to you, not something you have to choose."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Think about where your money actually goes each month. Most people have no idea. A $7 coffee five days a week is $1,820 a year. A $15 streaming service you forgot about is $180. These are not moral failings \u2014 they are invisible leaks that compound over time. Paying yourself first plugs the biggest leak of all: the one where your future disappears into your present."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Once you have a small emergency fund \u2014 even $1,000 \u2014 something shifts. You stop living in financial anxiety. A flat tire is an inconvenience, not a crisis. An unexpected bill is annoying, not devastating. That peace of mind is worth more than anything the money could have bought."
+        },
+        {
+          "type" : "action",
+          "label" : "Today",
+          "text" : "Open your banking app and set up an automatic transfer from your checking to a savings account. Even $25 per paycheck. The habit matters more than the amount right now."
+        },
+        {
+          "type" : "action",
+          "label" : "This Month",
+          "text" : "Track where your money actually went over the last 30 days. Not to judge yourself \u2014 just to see. Awareness is the first step to intention."
         }
-      ],
-      "icon" : "bubble.left.and.text.bubble.right",
+      ]
+    },
+    {
       "id" : 2,
+      "category" : "People",
+      "icon" : "bubble.left.and.text.bubble.right",
+      "title" : "Disagree Without Making Enemies",
+      "subtitle" : "How to hold your ground without burning bridges",
       "readTime" : "4 slides",
       "shortTitle" : false,
       "slides" : [
         {
-          "text" : "Most arguments escalate not because of what is being said, but because someone feels dismissed. The moment a person senses you are not really listening, they stop caring about your point and start defending their {{Ego}}. Learning to disagree well is one of the most valuable social skills you can develop — it determines whether conflicts strengthen or destroy your relationships.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "Most arguments escalate not because of what is being said, but because someone feels dismissed. The moment a person senses you are not really listening, they stop caring about your point and start defending their {{Ego}}. Learning to disagree well is one of the most valuable social skills you can develop \u2014 it determines whether conflicts strengthen or destroy your relationships."
         },
         {
-          "text" : "Separate the person from the position. Before presenting your view, acknowledge theirs: “I see why you’d think that” or “That’s a fair point.” This is not manipulation — it is genuine respect for their reasoning. Then share your perspective calmly. Watch your tone more than your words. You can say the most reasonable thing in the world, but if your voice carries contempt, the other person will only hear disrespect.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Separate the person from the position. Before presenting your view, acknowledge theirs: \u201cI see why you'd think that\u201d or \u201cThat's a fair point.\u201d This is not manipulation \u2014 it is genuine respect for their reasoning. Then share your perspective calmly. Watch your tone more than your words. You can say the most reasonable thing in the world, but if your voice carries contempt, the other person will only hear disrespect."
         },
         {
+          "type" : "quiz",
+          "question" : "What is the most common reason arguments escalate?",
           "choices" : [
             "One person is factually wrong",
             "The topic is too controversial",
@@ -114,62 +114,85 @@
             "People naturally enjoy conflict"
           ],
           "correctIndex" : 2,
-          "question" : "What is the most common reason arguments escalate?",
-          "type" : "quiz"
+          "explanation" : "Arguments rarely escalate over facts. They escalate when someone feels their perspective is being dismissed. The moment a person feels unheard, they stop listening and start defending."
         },
         {
-          "keyTakeaway" : "Acknowledge first, then redirect — respect their reasoning before sharing yours.",
-          "text" : "In your next disagreement, pause before responding. Restate what the other person said in your own words. Then — and only then — share your perspective. Notice how the dynamic changes.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "In your next disagreement, pause before responding. Restate what the other person said in your own words. Then \u2014 and only then \u2014 share your perspective. Notice how the dynamic changes.",
+          "keyTakeaway" : "Acknowledge first, then redirect \u2014 respect their reasoning before sharing yours."
         }
       ],
-      "subtitle" : "How to hold your ground without burning bridges",
-      "title" : "Disagree Without Making Enemies"
-    },
-    {
-      "category" : "Self",
       "content" : [
         {
-          "text" : "The ability to tolerate discomfort without reacting is one of the most underrated life skills.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "The goal of disagreement isn't to win \u2014 it's to be understood while making the other person feel heard."
         },
         {
-          "text" : "We live in an age of instant relief. Bored? Open your phone. Anxious? Have a drink. Lonely? Scroll social media. Every uncomfortable feeling has a quick fix — and every quick fix makes the next uncomfortable feeling harder to bear.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Most arguments escalate not because of what's being said, but because someone feels dismissed. The moment a person senses you're not really listening \u2014 that you're just waiting for your turn to talk \u2014 they stop caring about your point and start defending their {{Ego}}."
         },
         {
-          "text" : "What most people don’t realize is that discomfort is usually temporary. Anxiety peaks and then recedes. Boredom gives way to creativity. Loneliness passes. But you have to sit through the wave to discover this. Most people bail at the first sign of unease and never learn that they could have handled it.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "The trick is to separate the person from the position. You can completely disagree with someone's idea while still respecting their intelligence. These are two different things, but most people collapse them into one."
         },
         {
-          "label" : "The Insight",
-          "text" : "Discomfort is not danger. Your brain treats them the same way, but they are fundamentally different. Learning to tell them apart is the foundation of {{Emotional Resilience}}.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Framework",
+          "text" : "Acknowledge first, then redirect. Say \u201cI see why you'd think that\u201d or \u201cThat's a fair point\u201d before presenting your view. This isn't manipulation \u2014 it's genuine respect for their reasoning process."
         },
         {
-          "text" : "Start small. Next time you feel the urge to check your phone out of boredom, wait five minutes. When you feel anxious before a meeting, sit with the feeling instead of over-preparing. The goal isn’t to suffer — it’s to prove to yourself that you can handle more than you think.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Watch your tone more than your words. You can say the most reasonable thing in the world, but if your voice carries contempt or condescension, the other person will only hear the disrespect. Flat, calm, and warm beats clever and sharp every time."
         },
         {
-          "label" : "Practice This",
-          "text" : "Choose one daily discomfort — a cold shower, sitting in silence for five minutes, or delaying your morning coffee by an hour. Do it for a week. Notice how your relationship with discomfort shifts.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "There is a common trap: believing that being right gives you permission to be harsh. It does not. The people who change minds are not the ones who prove others wrong most aggressively \u2014 they are the ones who make it safe for others to change their own minds. Nobody updates their beliefs while feeling attacked."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Mistake",
+          "text" : "Never argue to win. The moment you are trying to defeat someone, you have already lost the relationship. Argue to understand. The irony is that people who argue to understand end up being far more persuasive than people who argue to win."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Consider the last argument you had that went badly. Replay it in your mind. At what point did it stop being a discussion and start being a fight? Almost always, it was the moment one person felt disrespected. Not disagreed with \u2014 disrespected. That is the line, and it is almost always about tone, not content."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The best disagreers share a trait: they ask more questions than they make statements. Questions like \u201cHelp me understand your thinking\u201d or \u201cWhat am I missing?\u201d do not concede your position. They signal intellectual humility, which paradoxically makes your own arguments land harder when you do share them."
+        },
+        {
+          "type" : "action",
+          "label" : "Try This",
+          "text" : "In your next disagreement, pause before responding. Restate what the other person said in your own words. Then \u2014 and only then \u2014 share your perspective. Notice how the conversation changes."
+        },
+        {
+          "type" : "action",
+          "label" : "Long Term",
+          "text" : "Practice separating ideas from identity. When someone challenges your opinion, notice the defensive reflex and let it pass. The goal is to reach a point where you can say \u201cI hadn't thought of it that way\u201d without it feeling like a loss."
         }
-      ],
-      "icon" : "figure.mind.and.body",
+      ]
+    },
+    {
       "id" : 3,
+      "category" : "Self",
+      "icon" : "figure.mind.and.body",
+      "title" : "Sitting With Discomfort",
+      "subtitle" : "Why the urge to fix everything is holding you back",
       "readTime" : "4 slides",
       "shortTitle" : true,
       "slides" : [
         {
-          "text" : "We live in an age of instant relief. Bored? Open your phone. Anxious? Have a drink. Every uncomfortable feeling has a quick fix, and every quick fix makes the next uncomfortable feeling harder to bear. The ability to tolerate discomfort without immediately reacting is the foundation of {{Emotional Resilience}}, better decisions, and real self-control.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "We live in an age of instant relief. Bored? Open your phone. Anxious? Have a drink. Every uncomfortable feeling has a quick fix, and every quick fix makes the next uncomfortable feeling harder to bear. The ability to tolerate discomfort without immediately reacting is the foundation of {{Emotional Resilience}}, better decisions, and real self-control."
         },
         {
-          "text" : "Discomfort is not danger — your brain just treats them the same way. Anxiety peaks and then recedes. Boredom gives way to creativity. But you have to sit through the wave to discover this. Start small: next time you feel the urge to check your phone out of boredom, wait five minutes. When you feel anxious before a meeting, sit with it instead of over-preparing. You will find you can handle far more than you think.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Discomfort is not danger \u2014 your brain just treats them the same way. Anxiety peaks and then recedes. Boredom gives way to creativity. But you have to sit through the wave to discover this. Start small: next time you feel the urge to check your phone out of boredom, wait five minutes. When you feel anxious before a meeting, sit with it instead of over-preparing. You will find you can handle far more than you think."
         },
         {
+          "type" : "quiz",
+          "question" : "What happens when you consistently avoid discomfort with quick fixes?",
           "choices" : [
             "You become more efficient at solving problems",
             "Future discomfort becomes harder to tolerate",
@@ -177,62 +200,85 @@
             "You develop better coping mechanisms"
           ],
           "correctIndex" : 1,
-          "question" : "What happens when you consistently avoid discomfort with quick fixes?",
-          "type" : "quiz"
+          "explanation" : "Every quick fix trains your brain to expect instant relief. Over time, your tolerance for discomfort shrinks, making even minor unease feel unbearable and driving you toward stronger distractions."
         },
         {
-          "keyTakeaway" : "Discomfort is not danger — sitting through the wave builds real strength.",
-          "text" : "Choose one small daily discomfort — a cold shower, sitting in silence for five minutes, or delaying your morning coffee by an hour. Do it for a week. Notice how your relationship with discomfort shifts.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "Choose one small daily discomfort \u2014 a cold shower, sitting in silence for five minutes, or delaying your morning coffee by an hour. Do it for a week. Notice how your relationship with discomfort shifts.",
+          "keyTakeaway" : "Discomfort is not danger \u2014 sitting through the wave builds real strength."
         }
       ],
-      "subtitle" : "Why the urge to fix everything is holding you back",
-      "title" : "Sitting With Discomfort"
-    },
-    {
-      "category" : "Work",
       "content" : [
         {
-          "text" : "The people who get ahead aren’t usually the most talented — they’re the ones others can count on.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "The ability to tolerate discomfort without reacting is one of the most underrated life skills."
         },
         {
-          "text" : "There’s a common trap in early careers: trying to be the smartest person in the room. Giving the most creative answer. Volunteering for the flashiest projects. But the people making hiring and promotion decisions care about something much simpler: can I trust this person to deliver?",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "We live in an age of instant relief. Bored? Open your phone. Anxious? Have a drink. Lonely? Scroll social media. Every uncomfortable feeling has a quick fix \u2014 and every quick fix makes the next uncomfortable feeling harder to bear."
         },
         {
-          "text" : "Reliability is boring and unglamorous, which is exactly why it’s so powerful. In a world where most people over-promise and under-deliver, simply doing what you said you’d do — on time, every time — makes you exceptional. The key principle is to {{Under-Promise and Over-Deliver}}.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "What most people don't realize is that discomfort is usually temporary. Anxiety peaks and then recedes. Boredom gives way to creativity. Loneliness passes. But you have to sit through the wave to discover this. Most people bail at the first sign of unease and never learn that they could have handled it."
         },
         {
-          "label" : "The Principle",
-          "text" : "Under-promise and over-deliver. Give yourself more time than you think you need. Communicate early when things change. Show up consistently, even when nobody’s watching.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Insight",
+          "text" : "Discomfort is not danger. Your brain treats them the same way, but they are fundamentally different. Learning to tell them apart is the foundation of {{Emotional Resilience}}."
         },
         {
-          "text" : "This doesn’t mean settling for mediocrity. It means building a foundation of trust that amplifies everything else you do. A brilliant idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Start small. Next time you feel the urge to check your phone out of boredom, wait five minutes. When you feel anxious before a meeting, sit with the feeling instead of over-preparing. The goal isn't to suffer \u2014 it's to prove to yourself that you can handle more than you think."
         },
         {
-          "label" : "Start Here",
-          "text" : "For the next two weeks, track every commitment you make — every “I’ll get back to you” and “I’ll have it by Friday.” Follow through on every single one. Watch how people start treating you differently.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "There is a reason this matters beyond abstract self-improvement. Every important thing in life requires tolerating discomfort. Starting a business means years of uncertainty. Building a relationship means vulnerability. Getting in shape means physical pain. If you cannot sit with discomfort for five minutes, you will never sustain the effort that meaningful goals demand."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Pattern",
+          "text" : "Notice the cycle: discomfort arises, you reach for relief, relief arrives, and the discomfort returns slightly stronger next time. Breaking this cycle does not require eliminating discomfort. It requires inserting a pause between the feeling and the reaction."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The people you admire most \u2014 the ones who seem calm under pressure, who make hard decisions without flinching, who show up consistently \u2014 are not superhuman. They have simply practiced sitting with discomfort so many times that their threshold is higher than most people's. This is a trainable skill, not a personality trait."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "One of the most powerful exercises is simply naming the feeling. When anxiety shows up, say to yourself: \u201cThis is anxiety. It is uncomfortable, but it is not dangerous. It will pass.\u201d This simple act of labeling creates a tiny gap between you and the emotion \u2014 enough space to choose your response instead of being controlled by it."
+        },
+        {
+          "type" : "action",
+          "label" : "Practice This",
+          "text" : "Choose one daily discomfort \u2014 a cold shower, sitting in silence for five minutes, or delaying your morning coffee by an hour. Do it for a week. Notice how your relationship with discomfort shifts."
+        },
+        {
+          "type" : "action",
+          "label" : "When It Hits",
+          "text" : "Next time you feel a strong urge to reach for your phone, a snack, or any quick fix \u2014 pause. Set a timer for three minutes and do nothing. Just sit with the feeling. After three minutes, decide if you still want the relief. Usually, you won't."
         }
-      ],
-      "icon" : "briefcase",
+      ]
+    },
+    {
       "id" : 4,
+      "category" : "Work",
+      "icon" : "briefcase",
+      "title" : "Be Reliable, Not Impressive",
+      "subtitle" : "The underrated career strategy nobody talks about",
       "readTime" : "4 slides",
       "shortTitle" : true,
       "slides" : [
         {
-          "text" : "The people making hiring and promotion decisions care about something simpler than talent: can I trust this person to deliver? Reliability is boring and unglamorous, which is exactly why it is so powerful. In a world where most people over-promise and under-deliver, simply doing what you said you would do — on time, every time — makes you exceptional.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "The people making hiring and promotion decisions care about something simpler than talent: can I trust this person to deliver? Reliability is boring and unglamorous, which is exactly why it is so powerful. In a world where most people over-promise and under-deliver, simply doing what you said you would do \u2014 on time, every time \u2014 makes you exceptional."
         },
         {
-          "text" : "{{Under-Promise and Over-Deliver}}. Give yourself more time than you think you need for any task. Communicate early when timelines change rather than going silent. This does not mean settling for mediocrity — it means building a foundation of trust that amplifies everything else you do. A brilliant idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "{{Under-Promise and Over-Deliver}}. Give yourself more time than you think you need for any task. Communicate early when timelines change rather than going silent. This does not mean settling for mediocrity \u2014 it means building a foundation of trust that amplifies everything else you do. A brilliant idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented."
         },
         {
+          "type" : "quiz",
+          "question" : "Why does reliability matter more than raw talent in most workplaces?",
           "choices" : [
             "Talented people are harder to manage",
             "Reliability is easier to measure on performance reviews",
@@ -240,62 +286,85 @@
             "Most jobs do not require much skill"
           ],
           "correctIndex" : 2,
-          "question" : "Why does reliability matter more than raw talent in most workplaces?",
-          "type" : "quiz"
+          "explanation" : "A great idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented. Trust is the multiplier that makes everything else you do more impactful."
         },
         {
-          "keyTakeaway" : "Trust is built by doing what you said you would do, every time.",
-          "text" : "For the next two weeks, track every commitment you make — every “I’ll get back to you” and “I’ll have it by Friday.” Follow through on every single one. Watch how people start treating you differently.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "For the next two weeks, track every commitment you make \u2014 every \u201cI'll get back to you\u201d and \u201cI'll have it by Friday.\u201d Follow through on every single one. Watch how people start treating you differently.",
+          "keyTakeaway" : "Trust is built by doing what you said you would do, every time."
         }
       ],
-      "subtitle" : "The underrated career strategy nobody talks about",
-      "title" : "Be Reliable, Not Impressive"
-    },
-    {
-      "category" : "Health",
       "content" : [
         {
-          "text" : "You cannot out-supplement, out-exercise, or out-hustle bad sleep. It is the single highest-leverage health habit.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "The people who get ahead aren't usually the most talented \u2014 they're the ones others can count on."
         },
         {
-          "text" : "Sleep isn’t passive. While you’re unconscious, your brain is clearing metabolic waste, consolidating memories, regulating hormones, and repairing tissue. Cutting sleep short doesn’t just make you tired — it degrades every system in your body.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "There's a common trap in early careers: trying to be the smartest person in the room. Giving the most creative answer. Volunteering for the flashiest projects. But the people making hiring and promotion decisions care about something much simpler: can I trust this person to deliver?"
         },
         {
-          "text" : "After just one night of poor sleep, your {{Insulin Sensitivity}} drops, your {{Cortisol}} spikes, your decision-making worsens, and your emotional regulation weakens. After a week of six-hour nights, your cognitive performance matches someone who’s been awake for 48 hours straight — but you won’t feel it, because one of the first things sleep deprivation impairs is your ability to judge your own impairment.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Reliability is boring and unglamorous, which is exactly why it's so powerful. In a world where most people over-promise and under-deliver, simply doing what you said you'd do \u2014 on time, every time \u2014 makes you exceptional. The key principle is to {{Under-Promise and Over-Deliver}}."
         },
         {
-          "label" : "The Non-Negotiable",
-          "text" : "Aim for 7 to 9 hours of actual sleep, not just time in bed. Consistency matters more than duration — going to bed and waking up at the same time every day, including weekends, is the single most impactful change you can make.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Principle",
+          "text" : "Under-promise and over-deliver. Give yourself more time than you think you need. Communicate early when things change. Show up consistently, even when nobody's watching."
         },
         {
-          "text" : "Your bedroom should be cool, dark, and quiet. Stop screens an hour before bed — the light suppresses {{Melatonin}} production. If your mind races at night, keep a notepad on your nightstand and write down whatever’s on your mind. Getting it out of your head and onto paper is surprisingly effective.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "This doesn't mean settling for mediocrity. It means building a foundation of trust that amplifies everything else you do. A brilliant idea from someone unreliable gets ignored. A good idea from someone reliable gets implemented."
         },
         {
-          "label" : "Tonight",
-          "text" : "Set a phone alarm for one hour before your target bedtime. When it goes off, start winding down — dim the lights, put your phone in another room, and let your body do what it already knows how to do.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "Here is where most people go wrong: they think reliability means saying yes to everything. It is the opposite. Reliable people say no to things they cannot do well. They protect their commitments by not overextending. Saying \u201cI can't take that on right now, but I can help next week\u201d builds more trust than saying \u201csure!\u201d and then missing the deadline."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Compound Effect",
+          "text" : "Reliability compounds like interest. Each kept promise makes the next one worth more. After six months of consistent follow-through, people stop questioning whether you will deliver. They just assume you will. That assumption is called trust, and it is the most valuable currency in any career."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Pay attention to how you handle the small things. Responding to emails within a reasonable window. Showing up to meetings on time. Remembering what someone told you last week. These micro-commitments seem trivial, but they are the bricks that build your reputation. Nobody announces \u201cI am reliable.\u201d People observe it through hundreds of small moments."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The ultimate test is what you do when things go wrong. Because they will. The reliable person does not disappear when a deadline is at risk \u2014 they communicate early. A message like \u201cI hit a snag and need one more day\u201d sent 48 hours before a deadline builds trust. The same message sent the morning something is due destroys it."
+        },
+        {
+          "type" : "action",
+          "label" : "Start Here",
+          "text" : "For the next two weeks, track every commitment you make \u2014 every \u201cI'll get back to you\u201d and \u201cI'll have it by Friday.\u201d Follow through on every single one. Watch how people start treating you differently."
+        },
+        {
+          "type" : "action",
+          "label" : "The Habit",
+          "text" : "Before committing to any deadline, add 20% more time than you think you need. If you think it takes three days, say four. This single buffer will transform how others perceive your reliability."
         }
-      ],
-      "icon" : "moon.zzz",
+      ]
+    },
+    {
       "id" : 5,
+      "category" : "Health",
+      "icon" : "moon.zzz",
+      "title" : "Sleep Is the Foundation",
+      "subtitle" : "Everything you optimize is built on how well you rest",
       "readTime" : "4 slides",
       "shortTitle" : true,
       "slides" : [
         {
-          "text" : "Sleep is not passive rest — it is when your brain clears metabolic waste, consolidates memories, regulates hormones, and repairs tissue. After just one night of poor sleep, your {{Insulin Sensitivity}} drops, {{Cortisol}} spikes, and decision-making worsens. After a week of six-hour nights, your cognitive performance matches someone awake for 48 hours straight — but you will not feel it, because sleep deprivation impairs your ability to judge your own impairment.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "Sleep is not passive rest \u2014 it is when your brain clears metabolic waste, consolidates memories, regulates hormones, and repairs tissue. After just one night of poor sleep, your {{Insulin Sensitivity}} drops, {{Cortisol}} spikes, and decision-making worsens. After a week of six-hour nights, your cognitive performance matches someone awake for 48 hours straight \u2014 but you will not feel it, because sleep deprivation impairs your ability to judge your own impairment."
         },
         {
-          "text" : "Aim for 7 to 9 hours of actual sleep, not just time in bed. Consistency matters more than duration — going to bed and waking up at the same time every day, including weekends, is the single most impactful change. Keep your bedroom cool, dark, and quiet. Stop screens an hour before bed — the light suppresses {{Melatonin}} production. If your mind races at night, keep a notepad on your nightstand and write down whatever is on your mind.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Aim for 7 to 9 hours of actual sleep, not just time in bed. Consistency matters more than duration \u2014 going to bed and waking up at the same time every day, including weekends, is the single most impactful change. Keep your bedroom cool, dark, and quiet. Stop screens an hour before bed \u2014 the light suppresses {{Melatonin}} production. If your mind races at night, keep a notepad on your nightstand and write down whatever is on your mind."
         },
         {
+          "type" : "quiz",
+          "question" : "What is the most impactful change you can make for better sleep?",
           "choices" : [
             "Taking melatonin supplements every night",
             "Sleeping in on weekends to catch up",
@@ -303,62 +372,85 @@
             "Exercising right before bed to tire yourself out"
           ],
           "correctIndex" : 2,
-          "question" : "What is the most impactful change you can make for better sleep?",
-          "type" : "quiz"
+          "explanation" : "Your body runs on a circadian rhythm. Consistent sleep and wake times train your internal clock, making it easier to fall asleep and wake up naturally. Weekend catch-up sleep actually disrupts this rhythm."
         },
         {
-          "keyTakeaway" : "Consistent sleep and wake times matter more than total hours.",
-          "text" : "Set a phone alarm for one hour before your target bedtime tonight. When it goes off, start winding down — dim the lights, put your phone in another room, and let your body do what it already knows how to do.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "Set a phone alarm for one hour before your target bedtime tonight. When it goes off, start winding down \u2014 dim the lights, put your phone in another room, and let your body do what it already knows how to do.",
+          "keyTakeaway" : "Consistent sleep and wake times matter more than total hours."
         }
       ],
-      "subtitle" : "Everything you optimize is built on how well you rest",
-      "title" : "Sleep Is the Foundation"
-    },
-        {
-      "category" : "People",
       "content" : [
         {
-          "text" : "People do not resist change. They resist being changed.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "You cannot out-supplement, out-exercise, or out-hustle bad sleep. It is the single highest-leverage health habit."
         },
         {
-          "text" : "You have probably watched someone you care about make the same mistake over and over. You can see the solution clearly. So you tell them. And they nod, maybe even agree, and then do exactly what they were doing before. This is not stupidity. It is human nature.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Sleep isn't passive. While you're unconscious, your brain is clearing metabolic waste, consolidating memories, regulating hormones, and repairing tissue. Cutting sleep short doesn't just make you tired \u2014 it degrades every system in your body."
         },
         {
-          "text" : "Unsolicited advice triggers {{Psychological Reactance}} — the instinct to reassert your freedom when you feel someone is trying to control you. The harder you push, the harder they push back, even if your advice is objectively correct. Being right is not enough. You also have to be invited.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "After just one night of poor sleep, your {{Insulin Sensitivity}} drops, your {{Cortisol}} spikes, your decision-making worsens, and your emotional regulation weakens. After a week of six-hour nights, your cognitive performance matches someone who's been awake for 48 hours straight \u2014 but you won't feel it, because one of the first things sleep deprivation impairs is your ability to judge your own impairment."
         },
         {
-          "label" : "The Shift",
-          "text" : "Replace statements with questions. Instead of \"you should do X,\" try \"what do you think would happen if you tried X?\" When people arrive at the answer themselves, they own it. When you hand it to them, they resist it.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Non-Negotiable",
+          "text" : "Aim for 7 to 9 hours of actual sleep, not just time in bed. Consistency matters more than duration \u2014 going to bed and waking up at the same time every day, including weekends, is the single most impactful change you can make."
         },
         {
-          "text" : "There is also a timing component. People are most open to input right after they ask for it, or right after a failure when the pain is fresh. Advice delivered at the wrong moment — no matter how good — lands as criticism. The same words delivered after \"what do you think I should do?\" land as wisdom.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Your bedroom should be cool, dark, and quiet. Stop screens an hour before bed \u2014 the light suppresses {{Melatonin}} production. If your mind races at night, keep a notepad on your nightstand and write down whatever's on your mind. Getting it out of your head and onto paper is surprisingly effective."
         },
         {
-          "label" : "Try This",
-          "text" : "The next time you feel the urge to give someone advice, pause. Ask a question instead: \"What have you tried so far?\" or \"What feels like the hardest part?\" Let them talk. You will be surprised how often they find their own answer.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "The biggest lie about sleep is that you can catch up on weekends. You cannot. Sleeping until noon on Saturday does not repay five days of sleep debt \u2014 it actually makes Monday harder by shifting your circadian rhythm. You end up jet-lagged in your own time zone, which is why Sunday nights often feel impossible."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Hidden Cost",
+          "text" : "Sleep deprivation does not just affect energy. It rewires your food choices, making you crave sugar and processed food. It weakens your immune system for days after a bad night. It impairs emotional regulation, making you more reactive and less patient. Almost every problem feels worse on bad sleep \u2014 and better on good sleep."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Caffeine deserves a mention. It does not create energy \u2014 it blocks the adenosine receptors that make you feel tired. The adenosine is still building up. When the caffeine wears off, the tiredness crashes back, often worse than before. If you rely on caffeine to function, that is not a coffee problem \u2014 it is a sleep problem."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The most successful people treat sleep like a performance tool, not a luxury. They protect their bedtime the way they protect a meeting with their most important client. Because in a very real sense, sleep is the meeting with your most important client: your own body and brain."
+        },
+        {
+          "type" : "action",
+          "label" : "Tonight",
+          "text" : "Set a phone alarm for one hour before your target bedtime. When it goes off, start winding down \u2014 dim the lights, put your phone in another room, and let your body do what it already knows how to do."
+        },
+        {
+          "type" : "action",
+          "label" : "This Week",
+          "text" : "Pick a consistent wake time and stick to it for seven days straight \u2014 including the weekend. Notice how by day four or five, you start waking up naturally before the alarm. That is your circadian rhythm locking in."
         }
-      ],
-      "icon" : "person.2",
+      ]
+    },
+    {
       "id" : 6,
+      "category" : "People",
+      "icon" : "person.2",
+      "title" : "Stop Giving Advice",
+      "subtitle" : "Why your best advice keeps getting ignored",
       "readTime" : "4 slides",
       "shortTitle" : false,
       "slides" : [
         {
-          "text" : "You can see the solution to someone else's problem with perfect clarity. So you tell them. And nothing changes. This is not because they are stubborn — it is because unsolicited advice triggers {{Psychological Reactance}}, the instinct to push back when someone tries to influence your behavior. The harder you push your point, the more they dig into their position. Being right is not enough. You also have to be invited.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "You can see the solution to someone else's problem with perfect clarity. So you tell them. And nothing changes. This is not because they are stubborn \u2014 it is because unsolicited advice triggers {{Psychological Reactance}}, the instinct to push back when someone tries to influence your behavior. The harder you push your point, the more they dig into their position. Being right is not enough. You also have to be invited."
         },
         {
-          "text" : "Replace statements with questions. Instead of telling someone what to do, ask what they think would happen if they tried a different approach. When people arrive at an answer themselves, they own it. When you hand it to them, they resist it. Timing matters too — people are most receptive right after they ask for help or right after a failure when the pain is fresh. The same advice delivered at the wrong moment lands as criticism.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Replace statements with questions. Instead of telling someone what to do, ask what they think would happen if they tried a different approach. When people arrive at an answer themselves, they own it. When you hand it to them, they resist it. Timing matters too \u2014 people are most receptive right after they ask for help or right after a failure when the pain is fresh. The same advice delivered at the wrong moment lands as criticism."
         },
         {
+          "type" : "quiz",
+          "question" : "Why do people often reject good advice?",
           "choices" : [
             "They lack the intelligence to understand your point",
             "They feel their autonomy is being threatened",
@@ -366,62 +458,85 @@
             "They have not heard the advice enough times yet"
           ],
           "correctIndex" : 1,
-          "question" : "Why do people often reject good advice?",
-          "type" : "quiz"
+          "explanation" : "{{Psychological Reactance}} means people instinctively resist when they feel someone is trying to control their choices. The better the advice, the more threatening it can feel \u2014 because it implies they should have figured it out themselves."
         },
         {
-          "keyTakeaway" : "Ask questions instead of giving answers — people own what they discover themselves.",
-          "text" : "The next time you want to give someone advice, ask a question instead. Try \"What have you tried so far?\" or \"What feels like the hardest part?\" Let them talk first. Notice how the conversation shifts from resistance to openness.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "The next time you want to give someone advice, ask a question instead. Try \u201cWhat have you tried so far?\u201d or \u201cWhat feels like the hardest part?\u201d Let them talk first. Notice how the conversation shifts from resistance to openness.",
+          "keyTakeaway" : "Ask questions instead of giving answers \u2014 people own what they discover themselves."
         }
       ],
-      "subtitle" : "Why your best advice keeps getting ignored",
-      "title" : "Stop Giving Advice"
-    },
-    {
-      "category" : "Self",
       "content" : [
         {
-          "text" : "You do not rise to the level of your goals. You fall to the level of your systems.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "People do not resist change. They resist being changed."
         },
         {
-          "text" : "Motivation is unreliable. It shows up on Monday morning and disappears by Wednesday afternoon. If your plan for self-improvement depends on feeling inspired, you have already failed. The people who consistently get things done are not more motivated — they have better systems.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "You have probably watched someone you care about make the same mistake over and over. You can see the solution clearly. So you tell them. And they nod, maybe even agree, and then do exactly what they were doing before. This is not stupidity. It is human nature."
         },
         {
-          "text" : "A system is any repeated process that removes the need for a decision. Putting your running shoes by the door the night before. Blocking your calendar for deep work every morning. Keeping your phone in another room while studying. These are not dramatic changes. They are {{Decision Fatigue}} countermeasures — small environmental tweaks that make the right behavior the default.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Unsolicited advice triggers {{Psychological Reactance}} \u2014 the instinct to reassert your freedom when you feel someone is trying to control you. The harder you push, the harder they push back, even if your advice is objectively correct. Being right is not enough. You also have to be invited."
         },
         {
-          "label" : "The Principle",
-          "text" : "Design your environment so the desired action requires less effort than the undesired one. Make good habits easy. Make bad habits inconvenient. Willpower is a backup generator, not a primary power source.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Shift",
+          "text" : "Replace statements with questions. Instead of \u201cyou should do X,\u201d try \u201cwhat do you think would happen if you tried X?\u201d When people arrive at the answer themselves, they own it. When you hand it to them, they resist it."
         },
         {
-          "text" : "Start with your biggest friction point. Where do you consistently fail to follow through? That is where you need a system, not more motivation. If you always skip the gym after work, switch to morning workouts and sleep in your gym clothes. If you waste evenings scrolling, put your phone on a charger in the kitchen at 9 PM.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "There is also a timing component. People are most open to input right after they ask for it, or right after a failure when the pain is fresh. Advice delivered at the wrong moment \u2014 no matter how good \u2014 lands as criticism. The same words delivered after \u201cwhat do you think I should do?\u201d land as wisdom."
         },
         {
-          "label" : "Build This",
-          "text" : "Pick one habit you have been struggling with. Instead of recommitting to it harder, change one thing about your environment that makes it easier to start. Remove one step, one obstacle, one decision. Test it for a week.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "The deeper issue is that giving advice often serves the giver more than the receiver. It feels good to be the one with the answer. It reinforces your sense of competence. But that momentary satisfaction comes at a cost: the other person feels smaller, less capable, and less likely to come to you in the future."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Real Skill",
+          "text" : "The most helpful people are not the ones with the best answers \u2014 they are the ones who ask the best questions. A good question helps someone think more clearly. Good advice just gives them something to resist."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "There is an exception: when someone explicitly asks for your opinion. Even then, the most effective approach is to share your experience rather than prescribe a solution. \u201cWhen I was in a similar situation, what helped me was...\u201d lands completely differently than \u201cYou should...\u201d The first is an offering. The second is an instruction."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Watch what happens when you stop giving advice for a week. You will notice that most of the time, people were not looking for solutions at all \u2014 they were looking to be heard. The act of listening, without trying to fix, is often the most powerful thing you can do for someone."
+        },
+        {
+          "type" : "action",
+          "label" : "Try This",
+          "text" : "The next time you feel the urge to give someone advice, pause. Ask a question instead: \u201cWhat have you tried so far?\u201d or \u201cWhat feels like the hardest part?\u201d Let them talk. You will be surprised how often they find their own answer."
+        },
+        {
+          "type" : "action",
+          "label" : "The Challenge",
+          "text" : "Go one full week without offering unsolicited advice to anyone \u2014 friends, family, coworkers. Only share your perspective when explicitly asked. Notice how your relationships subtly shift."
         }
-      ],
-      "icon" : "gearshape",
+      ]
+    },
+    {
       "id" : 7,
+      "category" : "Self",
+      "icon" : "gearshape",
+      "title" : "Systems Over Motivation",
+      "subtitle" : "Why willpower fails and what actually works",
       "readTime" : "4 slides",
       "shortTitle" : true,
       "slides" : [
         {
-          "text" : "Motivation is unreliable. It shows up on Monday morning and disappears by Wednesday afternoon. If your plan depends on feeling inspired, you have already failed. The people who consistently get things done have better systems, not more willpower. A system removes decisions. And every decision you remove is one less opportunity to choose the wrong thing, especially when you are tired, stressed, or distracted by {{Decision Fatigue}}.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "Motivation is unreliable. It shows up on Monday morning and disappears by Wednesday afternoon. If your plan depends on feeling inspired, you have already failed. The people who consistently get things done have better systems, not more willpower. A system removes decisions. And every decision you remove is one less opportunity to choose the wrong thing, especially when you are tired, stressed, or distracted by {{Decision Fatigue}}."
         },
         {
-          "text" : "Design your environment so the right action is the easiest one. Put running shoes by the door. Block your calendar for deep work. Keep your phone in another room while studying. These are not dramatic changes — they are small tweaks that make the desired behavior the default. Start with your biggest friction point: where do you consistently fail to follow through? That is where you need a system, not a pep talk.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Design your environment so the right action is the easiest one. Put running shoes by the door. Block your calendar for deep work. Keep your phone in another room while studying. These are not dramatic changes \u2014 they are small tweaks that make the desired behavior the default. Start with your biggest friction point: where do you consistently fail to follow through? That is where you need a system, not a pep talk."
         },
         {
+          "type" : "quiz",
+          "question" : "Why are systems more reliable than motivation for building habits?",
           "choices" : [
             "Motivation fluctuates but systems run on autopilot",
             "Goals are less important than motivation",
@@ -429,62 +544,85 @@
             "Systems eliminate the need for any effort"
           ],
           "correctIndex" : 0,
-          "question" : "Why are systems more reliable than motivation for building habits?",
-          "type" : "quiz"
+          "explanation" : "Motivation depends on how you feel in the moment, which changes constantly. Systems remove the decision entirely \u2014 when the environment is set up correctly, the right behavior happens automatically, regardless of your mood or energy level."
         },
         {
-          "keyTakeaway" : "Change your environment, not your willpower — make the right choice the easy choice.",
+          "type" : "move",
           "text" : "Pick one habit you have been struggling with. Instead of trying harder, change one thing about your environment that makes it easier to start. Remove one step, one obstacle, one decision. Test it for one week and see what happens.",
-          "type" : "move"
+          "keyTakeaway" : "Change your environment, not your willpower \u2014 make the right choice the easy choice."
         }
       ],
-      "subtitle" : "Why willpower fails and what actually works",
-      "title" : "Systems Over Motivation"
-    },
-    {
-      "category" : "Money",
       "content" : [
         {
-          "text" : "A budget is not a restriction. It is a plan for telling your money where to go instead of wondering where it went.",
-          "type" : "insight"
+          "type" : "insight",
+          "text" : "You do not rise to the level of your goals. You fall to the level of your systems."
         },
         {
-          "text" : "Most people think of budgeting as deprivation — cutting out lattes, canceling subscriptions, saying no to everything fun. That framing is why most budgets fail within a month. Real budgeting is not about spending less. It is about spending intentionally.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Motivation is unreliable. It shows up on Monday morning and disappears by Wednesday afternoon. If your plan for self-improvement depends on feeling inspired, you have already failed. The people who consistently get things done are not more motivated \u2014 they have better systems."
         },
         {
-          "text" : "The concept that changes everything is {{Lifestyle Inflation}}. Every time your income rises, your expenses rise to match it. A raise feels like more money for about two weeks before your spending absorbs it entirely. The person earning $90,000 who spends $88,000 is in a worse position than the person earning $50,000 who spends $40,000. Income is vanity. Savings rate is sanity.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "A system is any repeated process that removes the need for a decision. Putting your running shoes by the door the night before. Blocking your calendar for deep work every morning. Keeping your phone in another room while studying. These are not dramatic changes. They are {{Decision Fatigue}} countermeasures \u2014 small environmental tweaks that make the right behavior the default."
         },
         {
-          "label" : "The Method",
-          "text" : "Use the 50/30/20 framework as a starting point. 50% for needs, 30% for wants, 20% for savings and debt. You do not need to track every dollar — you need to know your three numbers and check them once a month.",
-          "type" : "principle"
+          "type" : "principle",
+          "label" : "The Principle",
+          "text" : "Design your environment so the desired action requires less effort than the undesired one. Make good habits easy. Make bad habits inconvenient. Willpower is a backup generator, not a primary power source."
         },
         {
-          "text" : "The real trick is automating the important categories. On payday, your savings transfer happens automatically. Your rent or mortgage is auto-paid. What remains is your actual spending money — and you can use it guilt-free because the important things are already handled. Freedom comes from structure, not from winging it.",
-          "type" : "paragraph"
+          "type" : "paragraph",
+          "text" : "Start with your biggest friction point. Where do you consistently fail to follow through? That is where you need a system, not more motivation. If you always skip the gym after work, switch to morning workouts and sleep in your gym clothes. If you waste evenings scrolling, put your phone on a charger in the kitchen at 9 PM."
         },
         {
-          "label" : "This Week",
-          "text" : "Look at your last month of spending. Sort it into three buckets: needs, wants, and savings. Do not judge — just observe. Knowing your actual numbers is the first step to choosing better ones.",
-          "type" : "action"
+          "type" : "paragraph",
+          "text" : "The reason systems work is that they exploit a fundamental truth about human behavior: we are lazy by default, and that is not a moral failing \u2014 it is an engineering constraint. Your brain is designed to conserve energy. It will always choose the path of least resistance. So instead of fighting that instinct, use it. Make the path of least resistance lead somewhere good."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Two-Minute Rule",
+          "text" : "If a habit feels too large, shrink it until it takes less than two minutes to start. \u201cGo to the gym\u201d becomes \u201cput on gym shoes.\u201d \u201cWrite a chapter\u201d becomes \u201copen the document.\u201d The goal is not to complete the habit \u2014 it is to become the kind of person who shows up. Completion follows naturally."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Consider the difference between a goal and a system. A goal says \u201cI want to lose 20 pounds.\u201d A system says \u201cI walk for 20 minutes every morning before checking my phone.\u201d The goal gives you a destination with no map. The system gives you a map that works regardless of the destination. People with systems outperform people with goals every time."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "One more thing: do not try to overhaul your entire life at once. That is the motivation trap disguised as ambition. Pick one system. One tiny environmental change. Master it until it is automatic. Then add another. Small systems, stacked over time, produce transformations that no burst of motivation ever could."
+        },
+        {
+          "type" : "action",
+          "label" : "Build This",
+          "text" : "Pick one habit you have been struggling with. Instead of recommitting to it harder, change one thing about your environment that makes it easier to start. Remove one step, one obstacle, one decision. Test it for a week."
+        },
+        {
+          "type" : "action",
+          "label" : "Audit This",
+          "text" : "Look at your daily routine and identify three decisions you make on autopilot that are working against you. Your phone on the nightstand. Junk food at eye level in the pantry. No blocked time for deep work. Change the environment for just one of them today."
         }
-      ],
-      "icon" : "chart.pie",
+      ]
+    },
+    {
       "id" : 8,
+      "category" : "Money",
+      "icon" : "chart.pie",
+      "title" : "Budgeting Without Suffering",
+      "subtitle" : "Spending intentionally instead of spending less",
       "readTime" : "4 slides",
       "shortTitle" : true,
       "slides" : [
         {
-          "text" : "Most people think budgeting means deprivation. That framing is why most budgets fail. Real budgeting is about spending intentionally, not spending less. The hidden danger is {{Lifestyle Inflation}} — every time your income rises, your expenses rise to match. A raise feels like more money for about two weeks before your spending absorbs it. The person earning $90,000 who spends $88,000 is worse off than the person earning $50,000 who spends $40,000.",
-          "type" : "why"
+          "type" : "why",
+          "text" : "Most people think budgeting means deprivation. That framing is why most budgets fail. Real budgeting is about spending intentionally, not spending less. The hidden danger is {{Lifestyle Inflation}} \u2014 every time your income rises, your expenses rise to match. A raise feels like more money for about two weeks before your spending absorbs it. The person earning $90,000 who spends $88,000 is worse off than the person earning $50,000 who spends $40,000."
         },
         {
-          "text" : "Use the 50/30/20 framework: 50% for needs, 30% for wants, 20% for savings and debt. You do not need to track every dollar — just know your three numbers and check once a month. Automate the important categories on payday: savings transfers, rent, bills. What remains is guilt-free spending money because the important things are already handled. Freedom comes from structure, not from winging it.",
-          "type" : "how"
+          "type" : "how",
+          "text" : "Use the 50/30/20 framework: 50% for needs, 30% for wants, 20% for savings and debt. You do not need to track every dollar \u2014 just know your three numbers and check once a month. Automate the important categories on payday: savings transfers, rent, bills. What remains is guilt-free spending money because the important things are already handled. Freedom comes from structure, not from winging it."
         },
         {
+          "type" : "quiz",
+          "question" : "What is the main reason most budgets fail?",
           "choices" : [
             "People do not earn enough money",
             "Budgets require too much daily effort",
@@ -492,90 +630,136 @@
             "Inflation makes budgets inaccurate over time"
           ],
           "correctIndex" : 2,
-          "question" : "What is the main reason most budgets fail?",
-          "type" : "quiz"
+          "explanation" : "When budgeting feels like punishment, people abandon it quickly. Reframing it as intentional spending \u2014 deciding in advance what matters to you \u2014 turns it from a restriction into a tool for freedom."
         },
         {
-          "keyTakeaway" : "Automate the essentials, then spend what remains guilt-free.",
-          "text" : "Look at your last month of spending. Sort it into three buckets: needs, wants, and savings. Do not judge the numbers — just observe them. Knowing your real numbers is the first step to choosing better ones.",
-          "type" : "move"
+          "type" : "move",
+          "text" : "Look at your last month of spending. Sort it into three buckets: needs, wants, and savings. Do not judge the numbers \u2014 just observe them. Knowing your real numbers is the first step to choosing better ones.",
+          "keyTakeaway" : "Automate the essentials, then spend what remains guilt-free."
         }
       ],
-      "subtitle" : "Spending intentionally instead of spending less",
-      "title" : "Budgeting Without Suffering"
+      "content" : [
+        {
+          "type" : "insight",
+          "text" : "A budget is not a restriction. It is a plan for telling your money where to go instead of wondering where it went."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Most people think of budgeting as deprivation \u2014 cutting out lattes, canceling subscriptions, saying no to everything fun. That framing is why most budgets fail within a month. Real budgeting is not about spending less. It is about spending intentionally."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The concept that changes everything is {{Lifestyle Inflation}}. Every time your income rises, your expenses rise to match it. A raise feels like more money for about two weeks before your spending absorbs it entirely. The person earning $90,000 who spends $88,000 is in a worse position than the person earning $50,000 who spends $40,000. Income is vanity. Savings rate is sanity."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Method",
+          "text" : "Use the 50/30/20 framework as a starting point. 50% for needs, 30% for wants, 20% for savings and debt. You do not need to track every dollar \u2014 you need to know your three numbers and check them once a month."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The real trick is automating the important categories. On payday, your savings transfer happens automatically. Your rent or mortgage is auto-paid. What remains is your actual spending money \u2014 and you can use it guilt-free because the important things are already handled. Freedom comes from structure, not from winging it."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "Here is the mistake that kills most budgets: tracking every single purchase. People download an app, categorize every coffee, and burn out within three weeks. You do not need that level of detail. You need to know three numbers: what comes in, what is committed, and what is left. Check those numbers once a month. That is it."
+        },
+        {
+          "type" : "principle",
+          "label" : "The Raise Rule",
+          "text" : "Every time your income increases, decide in advance how to split the increase. A good rule: 50% goes to savings or debt, 50% goes to lifestyle. This way you still enjoy the raise while preventing {{Lifestyle Inflation}} from consuming the entire gain."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "The guilt-free spending part is critical and most budgeting advice ignores it. If you have allocated $200 for dining out this month, spend it without guilt. That is what it is for. The anxiety around spending disappears when you know the important things are handled. Ironically, people with budgets often enjoy their spending more than people without them."
+        },
+        {
+          "type" : "paragraph",
+          "text" : "One more thing: your budget should reflect your values, not someone else's rules. If travel is important to you, allocate more there and cut somewhere you do not care about. If you love great food, budget generously for groceries and skip the new clothes. A budget that does not reflect what you actually care about is a budget you will abandon."
+        },
+        {
+          "type" : "action",
+          "label" : "This Week",
+          "text" : "Look at your last month of spending. Sort it into three buckets: needs, wants, and savings. Do not judge \u2014 just observe. Knowing your actual numbers is the first step to choosing better ones."
+        },
+        {
+          "type" : "action",
+          "label" : "Next Payday",
+          "text" : "Set up automatic transfers on payday: savings first, then bills. Whatever lands in your checking account after that is yours to spend freely. Build the structure once and let it run."
+        }
+      ]
     }
   ],
   "terms" : [
     {
+      "id" : "parkinsons-law",
+      "name" : "Parkinson's Law",
       "category" : "Money",
       "definition" : "Your spending expands to fill whatever money is available.",
-      "explanation" : "Coined by Cyril Northcote Parkinson in 1955, the original observation was about time: work expands to fill the time allotted. The financial version is equally powerful. If you have $3,000 in your account, you will find ways to spend $3,000. But if only $2,400 is visible because the rest was auto-transferred to savings, you adapt without even noticing. This is why paying yourself first works — it removes available money before your brain can claim it.",
-      "id" : "parkinsons-law",
-      "name" : "Parkinson’s Law"
+      "explanation" : "Coined by Cyril Northcote Parkinson in 1955, the original observation was about time: work expands to fill the time allotted. The financial version is equally powerful. If you have $3,000 in your account, you will find ways to spend $3,000. But if only $2,400 is visible because the rest was auto-transferred to savings, you adapt without even noticing. This is why paying yourself first works \u2014 it removes available money before your brain can claim it."
     },
     {
+      "id" : "ego",
+      "name" : "Ego",
       "category" : "People",
       "definition" : "The part of your identity that feels threatened during disagreements.",
-      "explanation" : "In everyday conversation, ego refers to your sense of self-importance. During disagreements, the ego is what makes you stop listening and start defending. When someone challenges your idea, your ego interprets it as a challenge to your intelligence or worth. Separating the person from the position means recognizing that disagreeing with an idea is not the same as disrespecting the person who holds it.",
-      "id" : "ego",
-      "name" : "Ego"
+      "explanation" : "In everyday conversation, ego refers to your sense of self-importance. During disagreements, the ego is what makes you stop listening and start defending. When someone challenges your idea, your ego interprets it as a challenge to your intelligence or worth. Separating the person from the position means recognizing that disagreeing with an idea is not the same as disrespecting the person who holds it."
     },
     {
+      "id" : "emotional-resilience",
+      "name" : "Emotional Resilience",
       "category" : "Self",
       "definition" : "The ability to tolerate discomfort without immediately reacting.",
-      "explanation" : "Emotional resilience is not about being tough or suppressing feelings. It is the skill of experiencing uncomfortable emotions — anxiety, boredom, frustration — without reflexively reaching for a quick fix. Every time you sit through a wave of discomfort instead of numbing it, you prove to your nervous system that the feeling is survivable. Over time, your tolerance grows and your need for instant relief shrinks.",
-      "id" : "emotional-resilience",
-      "name" : "Emotional Resilience"
+      "explanation" : "Emotional resilience is not about being tough or suppressing feelings. It is the skill of experiencing uncomfortable emotions \u2014 anxiety, boredom, frustration \u2014 without reflexively reaching for a quick fix. Every time you sit through a wave of discomfort instead of numbing it, you prove to your nervous system that the feeling is survivable. Over time, your tolerance grows and your need for instant relief shrinks."
     },
     {
+      "id" : "under-promise-over-deliver",
+      "name" : "Under-Promise and Over-Deliver",
       "category" : "Work",
       "definition" : "Set expectations slightly below what you can actually do, then exceed them.",
-      "explanation" : "This is not about sandbagging or being dishonest about your capabilities. It is about building in a margin of safety so that unexpected obstacles do not turn you into someone who breaks commitments. If you think a task will take two days, say three. If you finish early, you look exceptional. If something goes wrong, you still deliver on time. Over months, this pattern builds a reputation for reliability that compounds into trust, opportunities, and influence.",
-      "id" : "under-promise-over-deliver",
-      "name" : "Under-Promise and Over-Deliver"
+      "explanation" : "This is not about sandbagging or being dishonest about your capabilities. It is about building in a margin of safety so that unexpected obstacles do not turn you into someone who breaks commitments. If you think a task will take two days, say three. If you finish early, you look exceptional. If something goes wrong, you still deliver on time. Over months, this pattern builds a reputation for reliability that compounds into trust, opportunities, and influence."
     },
     {
+      "id" : "insulin-sensitivity",
+      "name" : "Insulin Sensitivity",
       "category" : "Health",
       "definition" : "How efficiently your cells respond to insulin and absorb blood sugar.",
-      "explanation" : "Insulin is the hormone that tells your cells to absorb glucose from the blood. When insulin sensitivity is high, a small amount of insulin does the job efficiently. When it drops — from poor sleep, stress, or diet — your body needs more insulin to achieve the same effect, which can lead to energy crashes, fat storage, and eventually metabolic disease. Even one night of poor sleep measurably reduces insulin sensitivity the next day.",
-      "id" : "insulin-sensitivity",
-      "name" : "Insulin Sensitivity"
+      "explanation" : "Insulin is the hormone that tells your cells to absorb glucose from the blood. When insulin sensitivity is high, a small amount of insulin does the job efficiently. When it drops \u2014 from poor sleep, stress, or diet \u2014 your body needs more insulin to achieve the same effect, which can lead to energy crashes, fat storage, and eventually metabolic disease. Even one night of poor sleep measurably reduces insulin sensitivity the next day."
     },
     {
-      "category" : "Health",
-      "definition" : "Your body’s primary stress hormone, released by the adrenal glands.",
-      "explanation" : "Cortisol is essential for waking up, responding to threats, and managing energy. Problems arise when it stays elevated due to chronic stress or poor sleep. High cortisol increases appetite, promotes fat storage around the midsection, impairs memory, and weakens immune function. Good sleep is one of the most effective ways to keep cortisol levels in a healthy rhythm — peaking in the morning and tapering off at night.",
       "id" : "cortisol",
-      "name" : "Cortisol"
+      "name" : "Cortisol",
+      "category" : "Health",
+      "definition" : "Your body's primary stress hormone, released by the adrenal glands.",
+      "explanation" : "Cortisol is essential for waking up, responding to threats, and managing energy. Problems arise when it stays elevated due to chronic stress or poor sleep. High cortisol increases appetite, promotes fat storage around the midsection, impairs memory, and weakens immune function. Good sleep is one of the most effective ways to keep cortisol levels in a healthy rhythm \u2014 peaking in the morning and tapering off at night."
     },
     {
+      "id" : "melatonin",
+      "name" : "Melatonin",
       "category" : "Health",
       "definition" : "The hormone that signals your body it is time to sleep.",
-      "explanation" : "Melatonin production is triggered by darkness and suppressed by light, especially the blue light from screens. When you stare at your phone before bed, you are directly telling your brain to delay sleep. This is why the advice to stop screens an hour before bed is so effective — it allows melatonin to rise naturally, making you feel drowsy at the right time instead of lying awake wondering why you cannot fall asleep.",
-      "id" : "melatonin",
-      "name" : "Melatonin"
+      "explanation" : "Melatonin production is triggered by darkness and suppressed by light, especially the blue light from screens. When you stare at your phone before bed, you are directly telling your brain to delay sleep. This is why the advice to stop screens an hour before bed is so effective \u2014 it allows melatonin to rise naturally, making you feel drowsy at the right time instead of lying awake wondering why you cannot fall asleep."
     },
-        {
+    {
+      "id" : "psychological-reactance",
+      "name" : "Psychological Reactance",
       "category" : "People",
       "definition" : "The instinct to push back when you feel someone is trying to control your behavior.",
-      "explanation" : "Psychological reactance was identified by Jack Brehm in 1966. When people perceive a threat to their freedom of choice, they experience an uncomfortable motivational state that drives them to restore that freedom — often by doing the exact opposite of what they are being told. This is why hard-sell tactics backfire, why teenagers rebel against strict rules, and why unsolicited advice is almost always ignored. The more pressure you apply, the more resistance you create.",
-      "id" : "psychological-reactance",
-      "name" : "Psychological Reactance"
+      "explanation" : "Psychological reactance was identified by Jack Brehm in 1966. When people perceive a threat to their freedom of choice, they experience an uncomfortable motivational state that drives them to restore that freedom \u2014 often by doing the exact opposite of what they are being told. This is why hard-sell tactics backfire, why teenagers rebel against strict rules, and why unsolicited advice is almost always ignored. The more pressure you apply, the more resistance you create."
     },
     {
+      "id" : "decision-fatigue",
+      "name" : "Decision Fatigue",
       "category" : "Self",
       "definition" : "The mental exhaustion that comes from making too many choices.",
-      "explanation" : "Every decision you make throughout the day draws from the same limited pool of mental energy. By evening, that pool is depleted — which is why you eat junk food at night even though you planned a healthy dinner, or why you scroll your phone instead of reading. Decision fatigue explains why successful people often simplify their wardrobes, eat the same breakfast, or follow rigid routines. They are not boring — they are conserving their decision-making energy for the choices that actually matter.",
-      "id" : "decision-fatigue",
-      "name" : "Decision Fatigue"
+      "explanation" : "Every decision you make throughout the day draws from the same limited pool of mental energy. By evening, that pool is depleted \u2014 which is why you eat junk food at night even though you planned a healthy dinner, or why you scroll your phone instead of reading. Decision fatigue explains why successful people often simplify their wardrobes, eat the same breakfast, or follow rigid routines. They are not boring \u2014 they are conserving their decision-making energy for the choices that actually matter."
     },
     {
+      "id" : "lifestyle-inflation",
+      "name" : "Lifestyle Inflation",
       "category" : "Money",
       "definition" : "The tendency for your spending to rise in lockstep with your income.",
-      "explanation" : "Lifestyle inflation is why many high earners still live paycheck to paycheck. Each raise, bonus, or new job triggers an upgrade: a nicer apartment, a better car, more expensive restaurants. The upgrades feel earned and reasonable in the moment, but they silently consume every gain. The antidote is not to avoid all upgrades — it is to decide in advance what percentage of each raise goes to savings before you adjust your lifestyle. Capture the gains before your spending can claim them.",
-      "id" : "lifestyle-inflation",
-      "name" : "Lifestyle Inflation"
+      "explanation" : "Lifestyle inflation is why many high earners still live paycheck to paycheck. Each raise, bonus, or new job triggers an upgrade: a nicer apartment, a better car, more expensive restaurants. The upgrades feel earned and reasonable in the moment, but they silently consume every gain. The antidote is not to avoid all upgrades \u2014 it is to decide in advance what percentage of each raise goes to savings before you adjust your lifestyle. Capture the gains before your spending can claim them."
     }
-  ],
-  "version" : 2
+  ]
 }
